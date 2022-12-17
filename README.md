@@ -1,3 +1,3 @@
-## Making a Simple Hello_World Website using React.js 😜😜
+## A Simple Hello_World Website using React
 
-You can visit the website [here](https://hello_world.onrender.com "Hello_World").
+You can visit the website by clicking the [link](https://hello-world-ir5m.onrender.com/ "Hello_World").
